@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'CookieRun Black';
+  src: url('CookieRun Black.eot');
+  src: url('CookieRun Black.eot?#iefix') format('embedded-opentype'),
+       url('CookieRun Black.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CookieRun-Black';
+  src: url('CookieRun-Black.svg#CookieRun-Black') format('svg'),
+       url('CookieRun-Black.ttf') format('truetype'),
+       url('CookieRun-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
